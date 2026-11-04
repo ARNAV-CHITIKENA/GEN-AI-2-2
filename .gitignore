@@ -1,0 +1,6 @@
+﻿lab/.Genlab/
+lab/.env
+**/venv/
+**/__pycache__/
+**/*.pyc
+**/.ipynb_checkpoints/
