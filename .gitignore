@@ -1,6 +1,7 @@
-﻿lab/.Genlab/
-lab/.env
+**/.Genlab/
 **/venv/
 **/__pycache__/
+**/.pytest_cache/
+**/.env
 **/*.pyc
 **/.ipynb_checkpoints/
