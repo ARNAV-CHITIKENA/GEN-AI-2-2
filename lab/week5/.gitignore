@@ -1,0 +1,5 @@
+
+.env
+.Genlab/
+__pycache__/
+.pytest_cache/
