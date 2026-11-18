@@ -1,0 +1,17 @@
+﻿Prompt,Temperature,Rank,Token ID,Candidate Token,Raw Logit,Scaled Logit,Probability (%)
+the capital of the india is New,1.0,1,12517,' Delhi',-58.1275,-58.1275,93.51
+the capital of the india is New,1.0,2,1971,' York',-61.1592,-61.1592,4.51
+the capital of the india is New,1.0,3,8936,' Zealand',-64.2062,-64.2062,0.21
+the capital of the india is New,1.0,4,12255,' Orleans',-64.5637,-64.5637,0.15
+the capital of the india is New,1.0,5,2199,' Cal',-65.0372,-65.0372,0.09
+the capital of the india is New,1.0,6,8221,' Jersey',-65.3382,-65.3382,0.07
+the capital of india is new,2.0,1,12517,' Delhi',-81.9998,-40.9999,0.44
+the capital of india is new,2.0,2,284,' to',-82.353,-41.1765,0.37
+the capital of india is new,2.0,3,11,"','",-82.6718,-41.3359,0.32
+the capital of india is new,2.0,4,290,' and',-82.7074,-41.3537,0.31
+the capital of india is new,2.0,5,13,'.',-83.0367,-41.5183,0.26
+the capital of the india is new,3.0,1,12517,' Delhi',-81.5588,-27.1863,0.08
+the capital of the india is new,3.0,2,284,' to',-82.0416,-27.3472,0.07
+the capital of the india is new,3.0,3,11,"','",-82.2278,-27.4093,0.07
+the capital of the india is new,3.0,4,290,' and',-82.3258,-27.4419,0.06
+the capital of the india is new,3.0,5,13,'.',-82.5763,-27.5254,0.06
